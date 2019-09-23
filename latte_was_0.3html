@@ -46,28 +46,23 @@
     <br>
     <div class="container">
       <div class="jumbotron">
-        <h2>연령대가 어떻게 되시나요?</h2>
+        <h2>나에 대해서 얼마나 알고 있나요?</h2>
         <br><br><br>
         <div class="row">
           <action>
           <div class="col-lg-6">
-            <img src="19.png" height="300" class="img-rounded">
+            <img src="0.3.1.png" height="300" class="img-rounded">
             <br><br>
-            <a href="latte_was_0.1html"><button type="button" class="btn btn-primary btn-lg">선택</button></a>
+            <a href="latte_was_0.4html"><button type="button" class="btn btn-primary btn-lg">선택</button></a>
 
           </div>
           <div class="col-lg-6">
-            <img src="20~29.png" height="300" class="img-rounded">
+            <img src="0.3.2.png" height="300" class="img-rounded">
             <br><br>
-            <a href="latte_was_0.1html"><button type="button" class="btn btn-primary btn-lg">선택</button></a>
+            <a href="latte_was_0.4html"><button type="button" class="btn btn-primary btn-lg">선택</button></a>
 
           </div>
-          <div class="col-lg-6">
-            <img src="30~39.png" height="300" class="img-rounded">
-            <br><br>
-            <a href="latte_was_0.1html"><button type="button" class="btn btn-primary btn-lg">선택</button></a>
 
-          </div>
           </action>
         </div>
       </div>
